@@ -15,6 +15,7 @@ This chatbot was developed for my friend Scott, a blind civil engineer who likes
 Before you start, ensure you have the following:
 
 - An OpenAI API key.
+   - For more information on setting up your OpenAI API key as a system variable, check out [API Quickstart Guide](https://platform.openai.com/docs/quickstart?context=python)
 - `python-dotenv` for environment variable management.
 - `pyperclip` for clipboard functionality.
 
